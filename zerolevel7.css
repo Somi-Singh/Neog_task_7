@@ -1,0 +1,31 @@
+.name{font-size: 2.5em;
+    font-family: cursive;
+}
+#translate{
+    background-color: rgb(46, 169, 240);
+    color: black;
+}
+
+#txt-input{
+    border: 3px solid purple; 
+    position:relative; 
+    top:-50px;
+    height:150px; 
+    width: 50%;
+    font-family: cursive;
+    border-bottom-left-radius: 3rem;
+
+
+}
+.font{
+    font-family: cursive;
+}
+body{
+    background-color: rgb(90, 253, 153);
+}
+.ab{
+    font-family: cursive;
+}
+.sty{
+    font-family: cursive;    
+}
